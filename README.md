@@ -21,6 +21,8 @@
 
 # Avia
 
+private Version of me - might not work. For offical version look at avia directory.
+
 **E-commerce re-invented :zap: in [Elixir][elixir]!**
 
 * 🌍 [https://aviacommerce.org/][aviacommerce] - Learn more about Aviacommerce
